@@ -33,7 +33,7 @@ void loop() {
   delay(500); 
 
   digitalWrite(LED9, HIGH);
-  delay(1000);
+  delay(500);
 
   digitalWrite(LED11, LOW);
   delay(500);     
