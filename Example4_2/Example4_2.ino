@@ -11,7 +11,6 @@ void setup() {
   pinMode(BUTTON, INPUT);
 }
 
-
 void loop() {
   // put your main code here, to run repeatedly:
   val = digitalRead(BUTTON);
@@ -21,4 +20,5 @@ void loop() {
   } else {
        digitalWrite(LED, LOW);
   }
+  sleep(1000);
 }
