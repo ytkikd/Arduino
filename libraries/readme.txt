@@ -1,1 +1,3 @@
-���C�u�����̃C���X�g�[���ɂ��Ă͎����Q�Ƃ��Ă��������Fhttp://www.arduino.cc/en/Guide/Libraries
+- ライブラリのインストールについては次を参照してください：http://www.arduino.cc/en/Guide/Libraries
+
+- ライブラリなので、このフォルダ配下はGitHubのバージョン管理対象外とする
