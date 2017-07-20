@@ -1,0 +1,2 @@
+# GitHubの対象外とする Arduinoプロジェクトのフォルダ、ファイルを指定する
+libraries/
