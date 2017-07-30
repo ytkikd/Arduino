@@ -20,5 +20,5 @@ void loop() {
   } else {
        digitalWrite(LED, LOW);
   }
-  sleep(1000);
+  sleep(2000);
 }
